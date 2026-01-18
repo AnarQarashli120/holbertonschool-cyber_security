@@ -1,0 +1,7 @@
+GET /ticket?id=1 HTTP/1.1
+Host: web0x00.hbtn
+User-Agent: Mozilla/5.0
+Accept: text/html
+Referer: http://web0x00.hbtn/support
+Cookie: session=Cookie: session=.eJxFyksKgCAURuG9_GMJmzoqWkIrULyR4AuvUhDtPaGBw_NxHqw2uMhQh_ZMAlvjmgKVIXvLOZXaoZbWm4J2Hgr8-3KRkbeU02lqhICzULNAYypRBxoj3g8vsSW4.aWu4TQ.P_ofB-6EmdNoQF9TkH1KwqidwxA
+Connection: keep-alive
